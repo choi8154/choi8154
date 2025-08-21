@@ -1,4 +1,4 @@
-# Hi there, This is Guenhui Choi, studying backend development. 👋
+# Hi there, This is Gunhui Choi, studying backend development. 👋
  <hr style="height:4px; background-color:#000; border:none;">
 
   ## 📚 Learning Now
