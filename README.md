@@ -25,7 +25,7 @@
 
 
 <p align="left">
-<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/JAVA-111111?style=for-the-badge&logo=&logoColor=white" height="28"/>
 </p>
 
 ------------------------------------------------------------------------
@@ -33,9 +33,7 @@
 ### ⚙ 백엔드 & API
 
 
-<img src="https://img.shields.io/badge/Django-1A1A1A?style=for-the-badge&logo=django&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/FastAPI-1A1A1A?style=for-the-badge&logo=fastapi&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Flask-1A1A1A?style=for-the-badge&logo=flask&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Django-1A1A1A?style=for-the-badge&logo=django&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/FastAPI-1A1A1A?style=for-the-badge&logo=fastapi&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/Flask-1A1A1A?style=for-the-badge&logo=flask&logoColor=white" height="28"/>
 
 
 ------------------------------------------------------------------------
@@ -43,18 +41,14 @@
 ### 🐳 DevOps & 인프라
 
 
-<img src="https://img.shields.io/badge/Docker-1A1A1A?style=for-the-badge&logo=docker&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Git-1A1A1A?style=for-the-badge&logo=git&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Docker-1A1A1A?style=for-the-badge&logo=docker&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/Git-1A1A1A?style=for-the-badge&logo=git&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" height="28"/>
 
 
 ------------------------------------------------------------------------
 
 ### 🗄 데이터베이스 (Databases)
 
-<img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/SQLite-111111?style=for-the-badge&logo=sqlite&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/PostgreSQL-1A1A1A?style=for-the-badge&logo=postgresql&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/MySQL-1A1A1A?style=for-the-badge&logo=mysql&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/SQLite-1A1A1A?style=for-the-badge&logo=sqlite&logoColor=white" height="28"/>
 
 </p>
 
@@ -62,4 +56,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=choi8154&theme=dark)](https://git.io/streak-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=choi8154&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=choi8154&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
